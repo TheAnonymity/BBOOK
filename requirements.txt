@@ -1,0 +1,2 @@
+django
+channels  #실시간 채팅구현에 필요한 라이브러리
