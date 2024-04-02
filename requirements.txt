@@ -1,2 +1,3 @@
 django
-channels  #실시간 채팅구현에 필요한 라이브러리
+channels  # django 웹 소켓 라이브러리
+daphne # channels를 지원하는 HTTP,HTTP2,WS 프로토컬 서버
